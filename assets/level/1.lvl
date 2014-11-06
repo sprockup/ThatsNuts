@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="480" height="800">    
+    <entity x="100" y="100" type="pistachio"/>
+    <entity x="100" y="300" type="pistachio"/>
+    <entity x="100" y="700" type="pistachio"/>
+    <entity x="400" y="100" type="pistachio"/>
+</level>
